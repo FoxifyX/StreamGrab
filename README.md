@@ -69,7 +69,7 @@ ffmpeg -version
 ### Step 1 — Clone or download the project
 ```bash
 # If using git:
-git clone <your-repo-url>
+git clone https://github.com/FoxifyX/StreamGrab
 cd StreamGrab
 
 # Or just unzip and cd into the folder
